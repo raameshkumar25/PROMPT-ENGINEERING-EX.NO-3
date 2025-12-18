@@ -44,7 +44,7 @@ Procedure:
 
 
 # OUTPUT: 
-[text](<prompt EXP-3.pdf>)
+[text](<prompt EXP-3.pdf>) 
 
 # RESULT: The various types of Prompts are executed successfully with generated the report.
 
